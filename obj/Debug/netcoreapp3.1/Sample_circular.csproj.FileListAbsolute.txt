@@ -1,0 +1,13 @@
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.exe
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.deps.json
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.runtimeconfig.json
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.runtimeconfig.dev.json
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.dll
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\bin\Debug\netcoreapp3.1\Sample_circular.pdb
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.dll
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.pdb
+C:\Users\HP Pavillion\source\repos\Sample_circular\Sample_circular\obj\Debug\netcoreapp3.1\Sample_circular.genruntimeconfig.cache
